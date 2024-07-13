@@ -1,16 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const Feed = () => {
+const ProfileScreen = () => {
   return (
     <View>
-      <Text>Feed</Text>
+      <Text>ProfileScreen</Text>
     </View>
   );
 };
 
-export default Feed;
+export default ProfileScreen;
 
 const styles = StyleSheet.create({});
-
-
